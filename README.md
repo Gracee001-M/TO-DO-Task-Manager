@@ -202,26 +202,18 @@ Visit **http://localhost:5173** in your browser.
 ---
 
 ## Contributors
+ main
+
+- 
+=======
 - [@dancunkamau53](https://github.com/dancunkamau53)
 - [@maureenmuchoki-hub](https://github.com/maureenmuchoki-hub)
 - [@wachira-54](https://github.com/wachira-54)
 - [@chesemchanel](https://github.com/chesemchanel)
 - [@miltonerick4410-oss](https://github.com/miltonerick4410-oss)
 - [@letema](https://github.com/letema)
-- [@grace001-m](https://github.com/grace001-m)
--
--  ## Acknowledgements
+- [@gracee001-m](https://github.com/gracee001-m)
 
-## We would like to express our sincere gratitude to the IYF Weekend Academy for providing the learning opportunity, guidance, and support throughout this project.
-
-## Special thanks to all mentors, instructors, and contributors whose knowledge, feedback, and encouragement made this project possible.
- 
-## we also appreciate the open-source community and everyone who contributed ideas, resources, and inspiration during the development process.
-- 
-- 
-
----
-
-## License
+ License
 
 MIT License — feel free to use and modify.
